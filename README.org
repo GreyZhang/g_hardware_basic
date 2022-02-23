@@ -7,3 +7,5 @@
 
 Happy hacking！
 
+** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/123100955][1178_hardware_basic_什么是高阻态]]
