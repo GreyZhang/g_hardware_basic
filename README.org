@@ -13,3 +13,4 @@ Happy hacking！
 - [[https://greyzhang.blog.csdn.net/article/details/123316849][1189_上拉电阻以及下拉电阻的作用]]
 - [[https://greyzhang.blog.csdn.net/article/details/123856508][1196_菊花链通信概念与基础]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124308867][1214_嵌入式硬件常识积累_什么是TTL电平]]
+- [[https://blog.csdn.net/grey_csdn/article/details/125904260][1307_嵌入式设计中的晶振测试小结]]
