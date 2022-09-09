@@ -17,3 +17,4 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/125984617][1311_硬件设计_ICT概念、应用以及优缺点学习小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126314781][1326_ADC模块以及功能参数初步]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126374275][1330_硬件测试中的BCI测试]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126789059][1454_LVDS是一个什么概念]]
