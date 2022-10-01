@@ -18,4 +18,5 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/126314781][1326_ADC模块以及功能参数初步]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126374275][1330_硬件测试中的BCI测试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126789059][1454_LVDS是一个什么概念]]
-- [[https://blog.csdn.net/grey_csdn/article/details/126819601][1457_硬件设计_FCT介绍类基本知识整理]] 
+- [[https://blog.csdn.net/grey_csdn/article/details/126819601][1457_硬件设计_FCT介绍类基本知识整理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127131444][1476_OSP以及HASL等几种PCB表面处理工艺了解]]
