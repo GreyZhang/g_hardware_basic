@@ -22,3 +22,4 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/127131444][1476_OSP以及HASL等几种PCB表面处理工艺了解]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130167764][1679_电子生产中的治具了解]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134958607][1844_高边驱动以及低边驱动的选择]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135049579][1847_MOSFET预驱以及作用]]
