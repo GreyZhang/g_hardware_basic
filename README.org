@@ -30,3 +30,4 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/135173994][1861_什么是H桥]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135174027][1862_KiCAD的简单了解]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135174113][1863_电荷泵的基本原理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135174149][1864_什么是EMI]]
