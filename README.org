@@ -26,3 +26,4 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/135173910][1857_什么是AEC-Q100认证]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135173927][1858_什么是米勒效应]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135173954][1859_续流二极管是什么以及其作用]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135173977][1860_peak&hold的喷油器]]
