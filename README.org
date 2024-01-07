@@ -32,3 +32,4 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/135174113][1863_电荷泵的基本原理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135174149][1864_什么是EMI]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135440124][1871_什么是PCB]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135440295][1875_如何提升开关应用中的EMI表现]]
