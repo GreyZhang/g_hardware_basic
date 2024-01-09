@@ -35,3 +35,4 @@ Happy hacking！
 - [[https://blog.csdn.net/grey_csdn/article/details/135440295][1875_如何提升开关应用中的EMI表现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135489179][1876_电感的特性小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/135489307][1879_什么是丝印]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135489570][1885_什么是MOSFET以及其特点]]
